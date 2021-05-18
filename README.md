@@ -49,7 +49,7 @@
 -----
 ### Github statistics:
 
-<table style="width:100%; border: 0px solid transparent;"> 
+<table align="center" style="width:100%; border: 0px solid transparent;"> 
 <tr>
     <td><a href="https://github.com/Ingeniosin"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ingeniosin&show_icons=true&theme=dark&count_private=true&include_all_commits=false" alt="JuanC's Github statistics"/></a></td>
     <td><a href="https://github.com/Ingeniosin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingeniosin&layout=compact&theme=dark" alt="JuanC's langs"/></a>
