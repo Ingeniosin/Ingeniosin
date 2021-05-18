@@ -50,7 +50,7 @@
 ### Github statistics:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ingeniosin&show_icons=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingeniosin&layout=default&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingeniosin&layout=default&show_icons=true&theme=dark"/>
 
 <br/>
 <br/>
