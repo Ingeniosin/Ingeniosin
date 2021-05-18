@@ -2,18 +2,18 @@
 
 -----
 
-<img align="left" height="378px" width="680px" alt="GIF" src="https://user-images.githubusercontent.com/51058847/118684164-99b3bb80-b7c7-11eb-974e-4d97201bb599.gif" />
+<img align="left" height="338px" width="640px" alt="GIF" src="https://user-images.githubusercontent.com/51058847/118684164-99b3bb80-b7c7-11eb-974e-4d97201bb599.gif" />
 
 # Hi 🙋‍♂️,
 #### My name is Juan David, I'm passionate about coding, I've been doing this for more than 3 years, I have knowledge in backend development. ⚡
 
 <br/>
+<br/>
 
 -----
-### Contact:
-##### Email: juan.camp.dev@gmail.com
-
+#### Contact: juan.camp.dev@gmail.com
 <br/>
+
 
 *************
 
