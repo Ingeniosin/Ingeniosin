@@ -5,7 +5,7 @@
 <img align="left" height="378px" width="680px" alt="GIF" src="https://user-images.githubusercontent.com/51058847/118684164-99b3bb80-b7c7-11eb-974e-4d97201bb599.gif" />
 
 # Hi 🙋‍♂️,
-#### My name is Juan david, I'm passionate about coding, I've been doing this for more than 3 years, I have knowledge in backend development. ⚡
+#### My name is Juan David, I'm passionate about coding, I've been doing this for more than 3 years, I have knowledge in backend development. ⚡
 
 <br/>
 
@@ -62,18 +62,3 @@
 #### `Small minds are concerned with the extraordinary, great minds with the ordinary.` - _Blaise Pascal_
 
 -----
-
-<!--
-**Ingeniosin/Ingeniosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
