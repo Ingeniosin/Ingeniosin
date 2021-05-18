@@ -57,11 +57,6 @@
   </tr>
 </table>
 
-<br/>
-<br/>
-<br/>
-<br/>
-
 -----
 
 #### `Small minds are concerned with the extraordinary, great minds with the ordinary.` - _Blaise Pascal_
