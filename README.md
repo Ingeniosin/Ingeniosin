@@ -49,9 +49,10 @@
 -----
 ### Github statistics:
 
+<div>
 <a href="https://github.com/Ingeniosin"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ingeniosin&show_icons=true&theme=dark&count_private=true&include_all_commits=false" alt="JuanC's Github statistics"/></a>
 <a href="https://github.com/Ingeniosin"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingeniosin&layout=compact&theme=dark" alt="JuanC's langs"/></a>
-
+</div>
 <br/>
 <br/>
 <br/>
