@@ -82,6 +82,10 @@ src="https://github-readme-stats.vercel.app/api?username=Ingeniosin&show_icons=t
 
 -----
 
+
+<div align="center">
+    
 #### `Small minds are concerned with the extraordinary, great minds with the ordinary.` - _Blaise Pascal_
+</div>
 
 -----
