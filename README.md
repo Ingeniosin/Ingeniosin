@@ -17,7 +17,7 @@ src="https://user-images.githubusercontent.com/51058847/118684164-99b3bb80-b7c7-
 <div align="center">
     
 -----
-###### Contact: juancamp.dev@gmail.com
+###### Contact: jcampinotoro@gmail.com
 ###### Web: https://juancamp.me/
 </div>
 </div>
